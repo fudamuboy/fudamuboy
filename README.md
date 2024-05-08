@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi👋 I'm SALIM
 
+--------------
+Software Developer 
 <!--
 **fudamuboy/fudamuboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--->
+---------------
+I'm SALIM SAMAKE from Mali living in Türkiye Tokat,student studying Computer Engineering at Tokat Gaziosmanpaşa University.I'm really learning languages,frameworks and ready to be a software developer. 
 
-Here are some ideas to get you started:
+For instant:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently a computer engineering student at Gaziosmanpaşa University
+- 🌱 I’m currently learning Android Studio and Flutter 
+- 📫 How to reach me:samakesal94@icloud.com or samakesalim376@gmail.com
+- ⚡ Fun fact: Travel,Explore World,Basketball and Football
+
