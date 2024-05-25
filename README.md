@@ -11,7 +11,7 @@ I'm SALIM SAMAKE from Mali living in Türkiye Tokat,student studying Computer En
 For instant:
 
 - 🔭 I’m currently a computer engineering student at Gaziosmanpaşa University
-- 🌱 I’m currently learning Android Studio and Flutter 
+- 🌱 I’m currently learning Android Studio and Flutter(Dart)
 - 📫 How to reach me:samakesal94@icloud.com or samakesalim376@gmail.com
 - ⚡ Fun fact: Travel,Explore World,Basketball and Football
 
