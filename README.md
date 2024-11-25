@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **javascript and React Native**
 
-- 📫 How to reach me samakesal94@icloud.com or kartalboy123@gmail.com
+- 📫 How to reach me samakesal94@icloud.com
 
 - ⚡ Fun fact travel,Explore World,Basketball and Football
 
