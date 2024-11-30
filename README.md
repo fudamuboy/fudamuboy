@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SALIM</h1>
-<h3 align="center">A passionate of Android Native</h3>
+<h3 align="center">FRONT END & SOFTWARE DEV</h3>
 <p>
   I am Salim Samaké from Mali, currently living in Tokat, Türkiye. I am a Computer Engineering student at Tokat Gaziosmanpaşa University. I am passionate about learning tools and technologies in software development, and I am dedicated to becoming a skilled software developer.
 </p>
