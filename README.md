@@ -5,7 +5,7 @@
 </p>
 - 🔭 I’m currently a computer engineering student at Gaziosmanpaşa University
 
-- 🌱 I’m currently learning mobile dev by**javascript and React Native**
+- 🌱 I’m currently learning mobile dev by **javascript and React Native**
 
 - 📫 How to reach me samakesal94@icloud.com
 
