@@ -4,15 +4,11 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm SALIM</h1>
-<h3 align="center">MOBILE DEV</h3>
-
 <p>
-  I'm from Mali, currently living in Tokat, Türkiye. Computer Engineering student at Tokat Gaziosmanpaşa University. I particularly enjoy working on front-end development, creating intuitive and responsive user interfaces. Currently, I specialize in React Native and React development, building mobile and web applications that are both functional and visually appealing.
+  Computer Engineering student at Tokat Gaziosmanpaşa University. I particularly enjoy working on front-end development, creating intuitive and responsive user interfaces. Currently, I specialize in React Native and React development, building mobile and web applications that are both functional and visually appealing. I am always keen to explore and learn new technologies, and I thrive in collaborative team environments.
 </p>
 
-- 🔭 I’m currently a computer engineering student at Gaziosmanpaşa University
-
-- 🌱 Currently learning Android dev by React Native
+- 🌱 Currently learning Front-end and React-Native developer.
 
 - ⚡ I am passionate about mobile dev and Web development.
 
