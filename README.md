@@ -39,11 +39,12 @@
 
 
 ## 📊 Most Used Languages
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fudamuboy&layout=compact&theme=tokyonight" />
+
+
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=fudamuboy&show_icons=true&theme=tokyonight" />
+  
 </p>
-
-
 
 ---
 
@@ -60,5 +61,10 @@
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=fudamuboy&show_icons=true&theme=tokyonight" />
   <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=fudamuboy&theme=tokyonight" />
+  
+  ![](https://github-readme-stats.vercel.app/api?username=fudamuboy&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=fudamuboy&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fudamuboy&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
 -->
+
