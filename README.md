@@ -1,7 +1,7 @@
 
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/85047238-85b0-4e62-885b-f19f2b25531c" alt="React Native Banner" style="width:100%; height:auto;">
+    <img src="https://github.com/user-attachments/assets/f9ced518-f19b-45a7-bdfb-8076ba38601d" alt="React Native Banner" style="width:"731"; height:"457";">
 </div>
 
 <h1 align="center">Hi 👋, I'm SALIM</h1>
@@ -41,7 +41,7 @@
 ## 📊 Most Used Languages
 
 
-<p align="center">
+<p align="left">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=fudamuboy&show_icons=true&theme=tokyonight" />
   
 </p>
