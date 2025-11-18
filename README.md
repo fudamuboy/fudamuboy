@@ -64,7 +64,7 @@
 <p align="center">
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/salim-samake" target="_blank">
+  <a href="https://www.linkedin.com/in/samakezil/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white" />
   </a>
 
