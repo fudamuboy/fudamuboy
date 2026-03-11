@@ -14,41 +14,48 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **React**, **React Native**, **Supabase**, and **Firebase**
+- 🌱 I’m currently learning **React**, **React Native**, **Supabase**, and **Firebase**........
 - 👯 I’m open to collaborating on **mobile apps & modern web projects**
 - ⚡ I enjoy creating **clean UI/UX** with smooth user experiences
 - 🏀 Fun facts: I love traveling, exploring new places, playing **basketball** & **football**
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
-  
+
+  <!-- Frontend & Mobile -->
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37" />
-  <img src="https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=white" />
+
   <br />
 
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" />
-  
+
   <br />
 
+  <!-- State Management -->
+  <img src="https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white" />
+
+  <br />
+
+  <!-- Backend Services & Databases -->
   <img src="https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34" />
   <img src="https://img.shields.io/badge/supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
-  
-  <br />
-
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgresql-316192?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white" />
 
 </p>
-
 ---
 
 ## 📊 GitHub Stats
