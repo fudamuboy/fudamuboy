@@ -61,7 +61,7 @@
 ## 📊 GitHub Stats
 
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fudamuboy&layout=compact&theme=tokyonight" />
+ <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fudamuboy&layout=compact&theme=tokyonight" />
 </p>
 
 ---
